@@ -1,4 +1,4 @@
-# MDC - Mechanical Dialogue Generator
+# MDC - Mechanical Dialogue Creator
 
 
 Web Client: https://github.com/ZeCariocaUnicamp/MDC
